@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes 2</title>
+
+    <style>
+
+        @font-face {
+            font-family: "fun";
+            src: url('fonts/Super Playful.ttf') format("truetype");
+            font-weight: normal;
+            font-style: normal;
+            /*
+                Tipos de format()
+                - opentype (otf)
+                - truetype (ttf)
+                - embedded-opentype
+                - truetype-att (Apple Advanced Typography)
+                - svg
+            */
+        }
+
+        @font-face {
+            font-family: "metal";
+            src: url('fonts/Crush\ Metal.ttf') format('truetype');
+            font-weight: normal;
+        }
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+        h1 {
+            font-family: 'fun', Times, serif;
+            font-weight: normal;
+            font-size: 2em;
+            text-align: center;
+        }
+
+        h2 {
+            font-family: 'metal';
+            font-weight: normal;
+            font-size: 2em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Título</h1>
+    <h2>Subtitulo</h2>
+</body>
+</html>

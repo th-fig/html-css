@@ -1,0 +1,21 @@
+@charset "UTF_8";
+/*
+    id em HTML    = # em CSS
+    class em HTML = . em CSS
+*/
+
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    color: brown;
+    background-color: chocolate;
+}
+
+h1#principal {
+    background-color: blue;
+    color: white;
+}
