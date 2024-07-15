@@ -27,13 +27,13 @@ Exercícios:
 
 Desafios
 
-<a href=" https://th-fig.github.io/html-css/desafios/desafio001/d001.html"  target="_blank" rel="author"> d001 </a>:  Mensagem <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio002/d002.html"  target="_blank" rel="author"> d002 </a>:  Imagens <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio003/d003.html"  target="_blank" rel="author"> d003 </a>:  Quebra-cabeça <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio004/d004.html"  target="_blank" rel="author"> d004 </a>:  Emojis <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio005/d005.html"  target="_blank" rel="author"> d005 </a>:  Social <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio006/d006.html"  target="_blank" rel="author"> d006 </a>:  Abreviações <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio007/d007.html"  target="_blank" rel="author"> d007 </a>:  Imagem Flexível <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio008/d008.html"  target="_blank" rel="author"> d008 </a>:  Navegação <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio009/d009.html"  target="_blank" rel="author"> d009 </a>:  Vídeos <br>
-<a href=" https://th-fig.github.io/html-css/desafios/desafio010b/d010.html"  target="_blank" rel="author"> d010 </a>:  Site Android <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio001/d001.html"  target="_blank" rel="author"> d001 </a>:  Mensagem <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio002/d002.html"  target="_blank" rel="author"> d002 </a>:  Imagens <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio003/d003.html"  target="_blank" rel="author"> d003 </a>:  Quebra-cabeça <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio004/d004.html"  target="_blank" rel="author"> d004 </a>:  Emojis <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio005/d005.html"  target="_blank" rel="author"> d005 </a>:  Social <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio006/d006.html"  target="_blank" rel="author"> d006 </a>:  Abreviações <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio007/d007.html"  target="_blank" rel="author"> d007 </a>:  Imagem Flexível <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio008/d008.html"  target="_blank" rel="author"> d008 </a>:  Navegação <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio009/d009.html"  target="_blank" rel="author"> d009 </a>:  Vídeos <br>
+<a href="https://th-fig.github.io/html-css/desafios/desafio010b/d010.html"  target="_blank" rel="author"> d010 </a>:  Site Android <br>
