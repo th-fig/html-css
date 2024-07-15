@@ -7,11 +7,22 @@
     <style>
         body {
             height: 100vh;
+            /*
             background-color: black;
             background-image: url('imagens/wallpaper002.jpg');
             background-position: center center;
-            background-repeat: repeat-y;
-            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            */
+
+            /* 
+                    background shorthand    
+                color > image > position > repeat > attachment
+            */
+
+            background: black url('imagens/wallpaper002.jpg') center center no-repeat fixed;
+            
+            background-size: cover;   
             /* 
                 cover   = tela toda        corta a imagem
                 contain = margem preta não corta a imagem
