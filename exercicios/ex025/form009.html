@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste</title>
+</head>
+<body>
+    <form action="pinto.php" method="get">
+        <legend>Você é gay?</legend>
+        <p> 
+            <label for="op1">Não</label>
+            <input type="radio" name="p1" id="op1" oninput="teste1()"> <br>
+            <label for="op2">Sim</label>
+            <input type="radio" name="p1" id="op2" oninput="teste2()"> <br>
+
+            <output id="resposta"></output>
+        </p>
+    </form>
+</body>
+    <script>
+        function teste1() {
+            resposta.innerHTML = "Resposta errada";
+        }
+        
+        function teste2() {
+            resposta.innerHTML = "Resposta certa";
+        }
+    </script>
+</html>
