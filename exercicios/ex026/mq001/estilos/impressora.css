@@ -1,0 +1,28 @@
+@charset 'UTF-8';
+
+/* Estilo para impressora*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header > h1 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+header > menu {
+    display: none;
+}
+
+main {
+    text-align: justify;
+}
+
+main::after {
+    content: 'Esta matéria foi impressa de ww.cursoemvideo.com';
+}
